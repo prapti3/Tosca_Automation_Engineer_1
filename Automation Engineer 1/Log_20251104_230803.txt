@@ -1,0 +1,78 @@
+[3] 23:08:03: Log started for 'C:\Users\prapt\OneDrive\Desktop\AE1\Automation Engineer 1\Automation Engineer 1.tws'
+[3] 23:08:03: Log level: 4
+[3] 23:08:03: Release: 16.0.0.3027
+[3] 23:08:04: Execution Approval is disabled.
+[3] 23:08:04: No service discovery configured.
+[3] 23:08:04:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.0.3027 (3027)
+    + : SAPSolutionManagerIntegration 16.0.0.3027 (3027)
+[3] 23:08:04: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 23:08:04: Searcher found 0 results in 74.2435 ms
+[3] 23:08:04:  + OptIntAddIn: OptIntAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + RemoteControl: RemoteControlAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + Reporting: ReportingAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + ReportingUI: ReportingUIAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + RequirementsManagementAddIn: RequirementsManagement 16.0.0.3027 (3027)
+[3] 23:08:04:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.0.3027 (3027)
+[3] 23:08:04:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + TestCaseDesign: TestCaseDesign 16.0.0.3027 (3027)
+[3] 23:08:04:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.0.3027 (3027)
+[3] 23:08:04:  + XDefinitions: XDefinitions 16.0.0.3027 (3027)
+[3] 23:08:04:  + XDefinitionsUI: XDefinitionsUI 16.0.0.3027 (3027)
+[3] 23:08:04: Opened from Workspace File 'C:\Users\prapt\OneDrive\Desktop\AE1\Automation Engineer 1\Automation Engineer 1.tws'
+[3] 23:08:06: OpenWorkspace took 00:00:05.0718406 to finish
+[2] 23:08:06: Common repository is not available
+[4] 23:08:07:  ShowStatusInfo: 'Ready'
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 23:08:10:  ShowStatusInfo: 'Ready'
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Automation Engineer 1''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 23:08:10:  ShowStatusInfo: 'Ready'
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Automation Engineer 1''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh all finished'
+[4] 23:08:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 23:08:10:  ShowStatusInfo: 'Ready'
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh navigation view 'Automation Engineer 1''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 23:08:10:  ShowStatusInfo: 'Ready'
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Execution''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh detail view 'Automation Engineer 1''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 23:08:10:  ShowStatusInfo: 'Refresh all finished'
+[4] 23:08:15:  ShowStatusInfo: 'Ready'
